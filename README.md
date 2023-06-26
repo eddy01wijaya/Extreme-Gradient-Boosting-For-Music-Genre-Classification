@@ -22,9 +22,9 @@
 
 - Music Genre Dataset [Github kumargauravsingh14](https://github.com/kumargauravsingh14/music-genre-classification/blob/master/data.csv)
 - Libraries/Modules (pandas, numpy, matplotlib, sklearn)
-- Preprocess MinMax Scalling
+- Preprocess MinMax Scalling, and label encoder
 - 10 Fold CV
-- Random Forest Classifier
+- Extreme Gradient Boosting Classifier
 - Confusion Matrix
 
 
